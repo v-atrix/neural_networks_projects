@@ -64,7 +64,7 @@ This repository contains a collection of Jupyter notebooks showcasing various pr
   - Data preprocessing
 
 ## Contact
-- Email: [sirius.minus1.58@gmail.com]
+- Email: [vs.v.atrix@gmail.com]
 - LinkedIn: [https://www.linkedin.com/in/v-atrix/]
 
 ## Setup Instructions
