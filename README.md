@@ -47,7 +47,7 @@ This repository contains a collection of Jupyter notebooks showcasing various pr
 - **Tools used:** Python, PyTorch, scikit-learn
 
 ### 5. Exploring Autoencoder Architectures
-**[View Notebook](./hw5_Neral_Networks_autoencoders.ipynb)**
+**[View Notebook](./hw5_Neural_Networks_autoencoders.ipynb)**
 - Implemented and compared different types of autoencoders:
   - Basic autoencoder for facial image reconstruction
   - Variational Autoencoder (VAE) with MNIST dataset
