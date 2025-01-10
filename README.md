@@ -46,6 +46,17 @@ This repository contains a collection of Jupyter notebooks showcasing various pr
 - Addressed class imbalance problems
 - **Tools used:** Python, PyTorch, scikit-learn
 
+### 5. Exploring Autoencoder Architectures
+**[View Notebook](./hw5_Neral_Networks_autoencoders.ipynb)**
+- Implemented and compared different types of autoencoders:
+  - Basic autoencoder for facial image reconstruction
+  - Variational Autoencoder (VAE) with MNIST dataset
+  - Conditional VAE (CVAE) with MNIST dataset
+- Analyzed and visualized latent space dimensions
+- Performed sampling from trained models
+- Compared VAE and CVAE performance and characteristics
+- **Tools used:** Python, PyTorch, torchvision
+
 ## Skills Demonstrated
 - Machine Learning
   - Classification algorithms
@@ -57,6 +68,11 @@ This repository contains a collection of Jupyter notebooks showcasing various pr
   - Convolutional Neural Networks
   - Transfer learning
   - Data augmentation
+  - Autoencoders
+    - Basic autoencoder architecture
+    - Variational Autoencoders (VAE)
+    - Conditional VAE
+    - Latent space analysis
 - Data Analysis
   - Exploratory data analysis
   - Data visualization
@@ -64,8 +80,8 @@ This repository contains a collection of Jupyter notebooks showcasing various pr
   - Data preprocessing
 
 ## Contact
-- Email: [vs.v.atrix@gmail.com]
-- LinkedIn: [https://www.linkedin.com/in/v-atrix/]
+- Email: vs.v.atrix@gmail.com
+- LinkedIn: https://www.linkedin.com/in/v-atrix/
 
 ## Setup Instructions
 To run these notebooks:
